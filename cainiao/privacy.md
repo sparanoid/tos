@@ -1,8 +1,10 @@
 ### **隐私保护指引**
 
-生效日期：2020年10月20日
+发布日期：2020年11月20日
 
-（历史版本：[2020年7月20日版](https://page.cainiao.com/guoguo/statements/privacy-20200720.html)；[2020年7月6日版](https://page.cainiao.com/guoguo/statements/privacy-20200706.html)；[2020年6月12日版](https://page.cainiao.com/guoguo/statements/privacy-20200612.html)；[2019年12月24日版](https://page.cainiao.com/guoguo/statements/privacy-20191224.html)；[2019年11月25日版](https://page.cainiao.com/guoguo/statements/privacy-20191125.html)；[2019年02月20日版](https://h5.m.taobao.com/guoguo/yinsi.html)；[2018年10月25日版](https://page.cainiao.com/guoguo/guoguo-privacy/20181025.html)；[2018年01月25日版](https://page.cainiao.com/guoguo/guoguo-privacy/20180125.html)）
+生效日期：2020年11月27日
+
+（历史发布版本： [2020年10月20日版](https://page.cainiao.com/guoguo/statements/privacy-20201020.html)； [2020年7月20日版](https://page.cainiao.com/guoguo/statements/privacy-20200720.html)； [2020年7月6日版](https://page.cainiao.com/guoguo/statements/privacy-20200706.html)； [2020年6月12日版](https://page.cainiao.com/guoguo/statements/privacy-20200612.html)； [2019年12月24日版](https://page.cainiao.com/guoguo/statements/privacy-20191224.html)； [2019年11月25日版](https://page.cainiao.com/guoguo/statements/privacy-20191125.html)； [2019年02月20日版](https://h5.m.taobao.com/guoguo/yinsi.html)； [2018年10月25日版](https://page.cainiao.com/guoguo/guoguo-privacy/20181025.html)； [2018年01月25日版](https://page.cainiao.com/guoguo/guoguo-privacy/20180125.html) ）
 
 **提示条款**
 
@@ -69,7 +71,7 @@
 
 1.11 当您需要与卖家、客服或者快递员进行语音交互时，我们会收集您的**录音内容**以响应您的客服或争议处理等需求。请您知晓，即使您已同意开启麦克风权限，我们也仅会在您主动点击客户端内麦克风图标或录制视频时通过麦克风获取语音信息。
 
-1.12 其他附加功能的权限获取说明（1）当您开启相册权限后，您可使用该功能上传您的照片/图片/视频，以实现与客服沟通时证明您所遇到的问题、从照片中识别运单等功能；（2）当您开启我们可读取/写入您日历的权限后，我们将收集您的**日历信息**用于向您提供领取权益相关提醒；（3）当您开启**地理位置信息**权限后，除前述相关业务场景外，我们还可向您推荐附件的社区、校园快递服务站。
+1.12 其他附加功能的权限获取说明（1）当您开启相册权限后，您可使用该功能上传您的照片/图片/视频，以实现与客服沟通时证明您所遇到的问题、从照片中识别运单等功能；（2）当您开启我们可读取/写入您日历的权限后，我们将收集您的**日历信息**用于向您提供领取权益相关提醒；（3）当您开启**地理位置信息**权限后，除前述相关业务场景外，我们还可向您推荐附近的社区、校园快递服务站。（4）我们向您申请获取存储权限，目的是为了保障客户端的稳定运行。当您开启我们可读取/写入您设备存储的权限后，我们将自您设备存储空间内读取或向其中写入图片、文件、崩溃日志信息等必要信息，用于向您提供信息发布或在本地记录崩溃日志信息等功能。以上附加权限，如您选择“禁止”“不同意”或者关闭权限，您将无法使用与此权限相关的特定功能，但不影响您使用菜鸟提供的其他服务。
 
 **2. Cookie 和同类技术、SDK**
 
